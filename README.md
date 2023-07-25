@@ -1,6 +1,6 @@
 # Estoque Farmacia
 
-Português
+Português:
 A ideia do projeto consiste num simples software de controle de estoque de produtos de uma farmácia.
 Serão armazenados no banco, dados como a quantidade do produto, nome, id, preço, fornecedor e alguns
 dados do cliente.
@@ -10,7 +10,7 @@ preço, os dados de uma venda realizada, entre outros.
 O usuário, poderá também, alterar a quantidade de tal produto no estoque, quando, por exemplo,
 ocorrer a compra daquele determinado medicamento, e também editar alguns incorretos ou desatualizados.
 
-English
+English:
 The project idea consists of a simple inventory management software for a pharmacy. The system will store data in a database, such as product quantity, name, ID, price, supplier, and some customer information.
 
 These data will be managed and accessed through a graphical user interface developed in Java. Users/employees will be able to update the inventory for sold products, check the quantity in stock, view product prices, and access information about completed sales, among other functionalities.
