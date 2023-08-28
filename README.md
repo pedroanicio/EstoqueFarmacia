@@ -16,3 +16,9 @@ The project idea consists of a simple inventory management software for a pharma
 These data will be managed and accessed through a graphical user interface developed in Java. Users/employees will be able to update the inventory for sold products, check the quantity in stock, view product prices, and access information about completed sales, among other functionalities.
 
 Moreover, users will have the ability to adjust the quantity of a specific product in the inventory, for example, when purchasing a certain medication. They will also be able to edit incorrect or outdated information.
+
+Tecnologias utilizadas:
+
+-JAVA;
+-Java Swing;
+-MySQL.
